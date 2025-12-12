@@ -1,0 +1,5 @@
+{
+  "name": "AutoGrade AI",
+  "description": "A smart grading assistant that converts handwritten math to LaTeX and provides real-time grading and feedback using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
